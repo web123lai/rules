@@ -1,0 +1,14 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,250420.xyz
+DOMAIN-SUFFIX,820803.xyz
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,argotunnel.com
+
+    
+# 域名关键字匹配
+# DOMAIN-KEYWORD,1e100
+
+# 国外DNS
+SRC-IP-CIDR,192.168.99.2/32,no-resolve
