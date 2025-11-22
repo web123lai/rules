@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,llgjc.xyz
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,xchina
+DOMAIN-KEYWORD,emotn
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
