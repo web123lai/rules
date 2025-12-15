@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,steamstatic.com
     
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
+# DOMAIN-KEYWORD,paypal
 
 # 国外DNS
 SRC-IP-CIDR,192.168.99.2/32,no-resolve
