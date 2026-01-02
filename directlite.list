@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,servitro.com
     
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
